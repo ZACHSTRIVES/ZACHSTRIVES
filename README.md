@@ -48,7 +48,17 @@
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
-  <a href="https://www.sqlite.org/index.html">
+  <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
   </a>
+  <a href="https://wx.qq.com/">
+    <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-1AAD19?&style=for-the-badge&logo=wechat&logoColor=white">
+  </a>
+  <a href="https://bootcss.com/">
+    <img src="https://img.shields.io/badge/bootstrap-55407b?&style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
+   <a href="https://wx.qq.com/">
+    <img src="https://img.shields.io/badge/socket.io-D3D3D3?&style=for-the-badge&logo=socket.io&logoColor=black">
+  </a>
+  
 </p>
