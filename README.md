@@ -9,7 +9,7 @@
   </a>
   <br>
 </p>
-<h1 align="center"> Skills & Tools: </h1>
+<h1 align="center"> Skills: </h1>
 
 <p align="center">
   <a href="https://www.javascript.com/">
