@@ -21,6 +21,13 @@
     <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/python-2e4c6d?&style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/java-bac4c2?&style=for-the-badge&logo=java&logoColor=black">
+  </a>
+  <br>
     <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   </a>
@@ -31,8 +38,8 @@
     <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
   </a>
   <br>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <a href="https://flask.palletsprojects.com/en/1.1.x/">
+    <img src="https://img.shields.io/badge/flask-007ACC?&style=for-the-badge&logo=flask&logoColor=white">
   </a>
   <a href="https://www.google.com/intl/en_in/chrome/">
     <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
