@@ -1,14 +1,14 @@
-<h1 align="center"> Hello, World!</h1>
 
-<p align="center">
+
+<p >
   <a >
     <img src="https://github-readme-stats.vercel.app/api?username=ZACHSTRIVES&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" height="165">
   </a>
   <br>
 </p>
-<h1 align="center"> Skills: </h1>
+<h3 > Skills: </h1>
 
-<p align="center">
+<p >
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
