@@ -3,7 +3,7 @@
 ```javascript
 ​
 const Zach = {
-    language: ["Javascript", "Python", "Java", "Typescript", "C#"],
+    languages: ["Javascript", "Python", "Java", "Typescript", "C#"],
     technologies: {
         backEnd: ["Node.js", "ASP.NET", "Express", "SpringBoot", "Django", "Flask"],
         frontEnd: ["React.js", "WeChatApp", "Bootstrap"],
