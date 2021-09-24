@@ -19,4 +19,9 @@ const Zach = {
 ```
 </h4>
 <!--START_SECTION:waka-->
+```text
+TypeScript   44 mins         █████████████████░░░░░░░░   68.42 % 
+CSS          16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 % 
+C#           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+```
 <!--END_SECTION:waka-->
