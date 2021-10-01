@@ -19,7 +19,7 @@ const Zach = {
 ```
 </h4>
 
-
+💻 Weekly Summary
 <!--START_SECTION:waka-->
 ```text
 Python       13 hrs 46 mins  █████████████░░░░░░░░░░░░   51.58 % 
