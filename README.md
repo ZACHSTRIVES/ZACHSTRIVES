@@ -22,6 +22,7 @@ const Zach = {
 💻 Weekly Summary
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Bash   7 mins          ██████████████░░░░░░░░░░░   56.53 % 
+JSX    6 mins          ███████████░░░░░░░░░░░░░░   43.47 % 
 ```
 <!--END_SECTION:waka-->
