@@ -11,7 +11,7 @@ const Zach = {
         databases: ["MongoDB", "MySql", "sqlLte"],
         misc: ["Firebase", "Socket.IO", "BS4", "open-cv", "GraphQL"]
     },
-    certificate: ["Graph Developer - Associate", "Microsoft Certified: Azure AI Fundamentals"]
+    certificate: ["Graph Developer - Associate", "Microsoft Certified: Azure AI Fundamentals"],
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Web Development",
     funFact: "不会摄影的程序员不是好摄影师！"
