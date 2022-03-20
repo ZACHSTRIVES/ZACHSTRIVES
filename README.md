@@ -24,8 +24,8 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 10 mins    ███████████████████▓░░░░░   78.20 %
-Other        16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
+JavaScript   1 hr            ███████████████████░░░░░░   75.65 %
+Other        16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.39 %
 ```
 
 <!--END_SECTION:waka-->
