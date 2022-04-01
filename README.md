@@ -24,7 +24,7 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   4 hrs 18 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
