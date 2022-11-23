@@ -23,9 +23,9 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 28 mins  █████████████████░░░░░░░░   68.24 %
-C#           2 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
-Other        1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+TypeScript   11 hrs 2 mins   █████████████████▒░░░░░░░   68.98 %
+C#           2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Other        1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
 ```
 
 <!--END_SECTION:waka-->
