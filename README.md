@@ -23,10 +23,7 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```txt
-C#         25 mins         ███████████████▓░░░░░░░░░   62.55 %
-Prolog     12 mins         ███████▓░░░░░░░░░░░░░░░░░   31.16 %
-Assembly   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-XML        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
