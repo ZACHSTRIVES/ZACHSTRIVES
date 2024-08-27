@@ -23,11 +23,11 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```txt
-C#                     37 mins         ███████████████▒░░░░░░░░░   61.98 %
-JSON                   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-GitIgnore file         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-MsBuild targets file   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Binary                 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+C#                     38 mins         ███████████████░░░░░░░░░░   59.37 %
+JSON                   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+GitIgnore file         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+MsBuild targets file   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+TypeScript             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 
 <!--END_SECTION:waka-->
