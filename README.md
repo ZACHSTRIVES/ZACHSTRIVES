@@ -23,11 +23,11 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        13 hrs 37 mins  █████████████████████▒░░░   85.15 %
-JSON              1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-CocoaPods         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Java Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-C#                11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+TypeScript        8 hrs 54 mins   ████████████████████▒░░░░   81.22 %
+JSON              1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+CocoaPods         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Java Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+C#                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
