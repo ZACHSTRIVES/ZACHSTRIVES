@@ -23,7 +23,9 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter   0 secs          █████████████████████████   100.00 %
+Jupyter   25 mins         ██████████████████████░░░   88.50 %
+CSV/TSV   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Python    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
