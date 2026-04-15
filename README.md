@@ -23,9 +23,7 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         4 mins                ████████████████████████░   96.16 %
-textmate     0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
