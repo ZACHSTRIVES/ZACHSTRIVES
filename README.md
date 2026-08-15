@@ -23,8 +23,7 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   0 secs                █████████████████████▓░░░   86.62 %
-Astro        0 secs                ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
