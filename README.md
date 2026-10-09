@@ -23,11 +23,7 @@ const Zach = {
 <!--START_SECTION:waka-->
 
 ```txt
-Swift         25 mins               ██████████▓░░░░░░░░░░░░░░   42.08 %
-Image (svg)   17 mins               ███████▒░░░░░░░░░░░░░░░░░   28.97 %
-Other         12 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-Markdown      4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-JavaScript    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
